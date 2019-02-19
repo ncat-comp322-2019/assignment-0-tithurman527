@@ -9,4 +9,4 @@ Assignment 0 Welcomes Students to GitHub
 5. Learn about GitHub and the commands via presentation provided (https://guides.github.com/activities/hello-world/)
 
 
-![Terence Thurman Octocat] (https://github.com/ncat-comp322-2019/assignment-0-tithurman527/blob/master/octocat.png?raw=true)
+(https://github.com/ncat-comp322-2019/assignment-0-tithurman527/blob/master/octocat.png?raw=true)
